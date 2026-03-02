@@ -24,3 +24,6 @@ Ferramenta em AutoHotkey que cria uma camada "click-through" sobre a tela, bloqu
 
 ---
 *Desenvolvido para garantir a estabilidade de fluxos no Power Automate Desktop e outras ferramentas de RPA.*
+
+📄 Licença
+Este projeto está sob licença MIT. Consulte o arquivo LICENSEpara mais detalhes.
